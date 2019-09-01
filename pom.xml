@@ -77,6 +77,7 @@
             <artifactId>maven-compiler-plugin</artifactId>
             <version>3.1</version>
             <configuration>
+             <executable>true</executable>
                 <source>1.8</source> <!-- yours Java version -->
                 <target>1.8</target> <!-- yours Java version -->
             </configuration>
