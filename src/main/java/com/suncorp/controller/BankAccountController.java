@@ -144,7 +144,7 @@ public class BankAccountController {
 
     @GetMapping(value="/hello")
    public  String m(){
-        return "hi";
+        return "hi this is BankApplication";
     }
 
 }
